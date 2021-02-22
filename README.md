@@ -1,5 +1,5 @@
 # UART_peripheral
-Designed a full fleged uart peripheral in VHDL, Copyrights hold
+Designed a full fleged uart peripheral in VHDL.
 
 Mail me if u want to copy the code, Or else will be considered violation.
 
